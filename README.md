@@ -10,9 +10,9 @@ Me apasiona garantizar la calidad de los productos digitales y aportar valor a t
 - Jira  
 
 ## 📂 Proyectos destacados
-- [🚕 Automatización de flujo de compra en app de taxis (Selenium + Pytest)](link_al_repo)  
-- [📦 API Testing de creación de kits (Postman + Pytest)](link_al_repo)  
-- [📊 Validación de datos con SQL en sistema de reservas](link_al_repo)  
+- [🚕 Automatización de flujo de compra en app de taxis (Selenium + Pytest)](https://github.com/Mireyam44/AutomatizacionFlujoCompraAppTaxis)  
+- [🛒 Validación de datos con SQL en sistema de reservas](https://github.com/Mireyam44/ValidacionDeDatosConSQLEnSistemaDeReservas)  
+- [🔗 API Testing de creación de kits (Postman + Pytest)](https://github.com/Mireyam44/APITestingCreacionDeKits)
 
 ---
 📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/mireyamarquezdelamo) | mireya.email@ejemplo.com
